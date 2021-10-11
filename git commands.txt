@@ -1,0 +1,12 @@
+Git Commands -
+To Clone a remote repository - git clone <remote-repository-url>
+T0 Know which branch we're currently in - git branch
+To checkout a branch that is remotely available - git checkout <branch name>
+To know which files have been modified - git status
+To fetch latest Changes from a branch - git pull
+Make Code Changes
+To Commit & Push Changes -
+Add/Stage All Files - git add .
+Commit Files - git commit -m "Commit Message"
+Push Files - git push
+Create a Pull or Merge Request from current branch to develop branch
